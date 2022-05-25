@@ -5,9 +5,6 @@ body {
   padding: 0;
 }
 
-.container.bg  {
-  background-color: rgb(150, 55, 91);
-}
 
 .save-note {
   display: none;
